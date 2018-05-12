@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33242'
     url: http://www.gutenberg.org/2009/agents/33242
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28279#Woher-die-Kindlein-kommen
 gutenberg_bookshelf: DE Kinderbuch
 gutenberg_issued: '2009-03-08'
 gutenberg_type: Text
